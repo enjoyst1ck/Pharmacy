@@ -1,0 +1,44 @@
+Suplement
+1
+SEMA Lab Tymianek i Podbiał
+8
+32,1
+10.05.2024 00:00:00
+150
+SEMA Lab Tymianek i Podbiał + Ekstrakt z 20 Ziół to suplement diety będący połączeniem ekstraktu z tymianku (Thymus vulgaris L.) i podbiału (Tussilago farfara L.).
+Suplement diety
+Pastylka
+Wspiera wydzielanie śluzu w górnych drogach oddechowych, ułatwiając odkrztuszanie.
+Doustnie
+24
+Laboratoria Gemini
+14329
+Izomalt
+True
+True
+0,3
+1
+System.String[]
+Produkt nie jest odpowiedni do stosowania jako jedyne źródło pożywienia.
+Suplement
+2
+3243242
+8
+32,1
+10.05.2024 00:00:00
+150
+SEMA Lab Tymianek i Podbiał + Ekstrakt z 20 Ziół to suplement diety będący połączeniem ekstraktu z tymianku (Thymus vulgaris L.) i podbiału (Tussilago farfara L.).
+Suplement diety
+Pastylka
+Wspiera wydzielanie śluzu w górnych drogach oddechowych, ułatwiając odkrztuszanie.
+Doustnie
+24
+Laboratoria Gemini
+14329
+Izomalt
+True
+True
+0,3
+1
+System.String[]
+Produkt nie jest odpowiedni do stosowania jako jedyne źródło pożywienia.

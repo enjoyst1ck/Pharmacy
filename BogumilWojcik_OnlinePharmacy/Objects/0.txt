@@ -1,0 +1,21 @@
+Antybiotyk
+1
+ABAKTAL
+0
+32,1
+10.05.2024 00:00:00
+50
+Lek przeciwbakteryjny stosowany ogólnie. Chemioterapeutyk stosowany w leczeniu zakażeń bakteryjnych.
+Antybiotyk
+Tabletka
+Preparat ma zastosowanie w leczeniu wielu zakażeń oraz infekcji mających miejsce w oponach mózgowo-rdzeniowych, kościach i stawach, układzie oddechowym, układzie moczowym i drogach żółciowych, układzie pokarmowym, a także stosowany w zapaleniu ucha i gardła, zakażeniach skóry, posocznicy i zapaleniach wsierdzia.
+Doustnie
+10
+Sandoz
+R/0617
+True
+2
+Pefloksacyna
+Bezsenność, Zawroty głowy, Ból głowy
+Brak
+Fluorochinolon

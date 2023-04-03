@@ -1,0 +1,84 @@
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.AssemblyReference.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.SuggestedBindingRedirects.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.AssemblyReference.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.SuggestedBindingRedirects.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.Form1.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy1\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csprojAssemblyReference.cache
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Form1.resources
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+\\dc\stud_homes\134056\Desktop\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csprojAssemblyReference.cache
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormBrowseList.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormBrowseList.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormOperatorFunction.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.AssemblyReference.cache
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.SuggestedBindingRedirects.cache
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Form1.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormBrowseList.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormOperatorFunction.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+E:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
+D:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormMain.resources
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormMain.resources
+F:\Studia UO\Programowanie 2\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormOperatorFunction.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe.config
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.exe
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\bin\Debug\BogumilWojcik_OnlinePharmacy.pdb
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.AssemblyReference.cache
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.SuggestedBindingRedirects.cache
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormMain.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormAntibiotic.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormBrowseList.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormOperatorFunction.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.FormSupplement.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.Properties.Resources.resources
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.GenerateResource.cache
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.csproj.CoreCompileInputs.cache
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.exe
+C:\Users\bogum\source\repos\enjoyst1ck\Pharmacy\BogumilWojcik_OnlinePharmacy\obj\Debug\BogumilWojcik_OnlinePharmacy.pdb
