@@ -20,8 +20,6 @@ namespace BogumilWojcik_OnlinePharmacy
         string adverseEffects;  //skutki uboczne, dzialania nieporządane
         string chemicalStructure;       //budowa chemiczna, np. beta-laktamowe, makrolidy itd...
         string additionalInformation;   //np. dla jakiej plci
-        //Bitmap bmp;
-        //
 
         //Konstruktor bezargumentowy wywołujący odpowiedni konstruktor klasy
         //bazowej (Medicament)
@@ -94,7 +92,6 @@ namespace BogumilWojcik_OnlinePharmacy
             medicine.Items.Add("Skutki uboczne:\t\t" + adverseEffects);
             medicine.Items.Add("Dodatkowe informacje:\t" + additionalInformation);
             medicine.Items.Add("Budowa chemiczna:\t" + chemicalStructure);
-            //if (bmp != null) pic.Image = bmp;
             medicine.Items.Add("------------------------");
             medicine.Items.Add("");
         }
@@ -110,21 +107,25 @@ namespace BogumilWojcik_OnlinePharmacy
                 return "Nie";
             }
         }
+
         //zwraca ile razy dziennie trzeba brac tabletke
         protected int HowManyTimesOfDay(int numberOfDoses)
         {
             return 24 / numberOfDoses;
         }
+
         //zwraca liczbe ile dni trzeba brac antybiotyk
         protected int HowManyDays(int content, int numberOfDoses)
         {
             return content / numberOfDoses;
         }
+
         public Antibiotic(StreamReader sr) // nowy konstruktor - tworzenie obiektu na podstawie fragmentu pliku
         {
             Deserialize(sr);
             FormMain.listDrug.Add(this);
         }
+
         private void SaveBmp(StreamWriter sw)
         {
 
@@ -143,6 +144,7 @@ namespace BogumilWojcik_OnlinePharmacy
             using (MemoryStream ms = new MemoryStream(bytes))
                 return new Bitmap(ms);
         }
+
         override public void Serialize(StreamWriter drugWrite)
         {
             drugWrite.WriteLine("Antybiotyk");
@@ -168,6 +170,7 @@ namespace BogumilWojcik_OnlinePharmacy
             drugWrite.WriteLine(chemicalStructure);
             if (bmp != null) SaveBmp(drugWrite);
         }
+
         override public void Deserialize(StreamReader drugRead)
         {
             id = Convert.ToInt32(drugRead.ReadLine());

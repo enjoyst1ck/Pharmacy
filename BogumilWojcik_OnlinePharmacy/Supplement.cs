@@ -38,6 +38,7 @@ namespace BogumilWojcik_OnlinePharmacy
             vitamine = "B2";
             tip = "-";
         }
+
         //Konstruktor wieloargumentowy wywolujacy odpowiedni konstruktor klasy bazowej()
         public Supplement(string name, int vat, double netPrice, DateTime expirationDate, int amount,
                           string description, string type, string form, string purpose,
@@ -68,24 +69,27 @@ namespace BogumilWojcik_OnlinePharmacy
             this.vitamine = drug.vitamine;
             this.tip = drug.tip;
         }
+
         public override bool Equals(object o)
         {
             return true;
         }
+
         public override int GetHashCode()
         {
             return 0;
         }
+
         public static bool operator ==(Supplement drug1, Supplement drug2)
         {
             return drug1.weightAll == drug2.weightAll;
         }
 
-    
         public static bool operator !=(Supplement drug1, Supplement drug2)
         {
             return drug1.weightAll != drug2.weightAll;
         }
+
         //Oblicza która ogólna waga produktu jest większa
         //Funkcja OPERATOROWA realizująca mnożenie dwóch liczb, aby uzyskać wage ogolna produktu
         public static double operator +(Supplement drug1, Supplement drug2)
@@ -128,10 +132,6 @@ namespace BogumilWojcik_OnlinePharmacy
 
             medicine.Items.Add("Ile dziennego spożycia:\t" + numberOfDoses + " dziennie.");
             medicine.Items.Add("Witaminy, które zawiera:\t\t");
-            //for (int i = 0; i < vitamine.Length; i++)
-            //{
-            //    medicine.Items.Add("\t\t\t" + (i + 1) + ". " + vitamine[i]);
-            //}
             medicine.Items.Add("\t\t\t" + vitamine);
             medicine.Items.Add("Wskazówki:\t\t" + tip);
             medicine.Items.Add("Masa jednej sztuki:\t\t" + weight + " g.");
@@ -140,6 +140,7 @@ namespace BogumilWojcik_OnlinePharmacy
             medicine.Items.Add("------------------------");
             medicine.Items.Add("");
         }
+
         //Oblicza ogólną wage produktu
         protected double CalculateWeight(int content, double weight)
         {

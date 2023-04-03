@@ -36,8 +36,6 @@ namespace BogumilWojcik_OnlinePharmacy
 
 
         protected static int add_idDrug = 0;  //zmienna statyczna, wspólna dla wszystkich obiektów klasy Medicament
-        //private double netPrice;
-
 
         //METODY KLASY (FUNKCJE SKŁADOWE)
         public int CompareTo(Medicament medicament)
@@ -69,11 +67,6 @@ namespace BogumilWojcik_OnlinePharmacy
             }
             
         }
-
-
-
-
-
 
         //Konstruktor bezargumentowy
         //Inicjalizuje pola wartościami domyślnymi
@@ -118,7 +111,6 @@ namespace BogumilWojcik_OnlinePharmacy
             this.producer = producer;
             this.license = license;
             this.bmp = bmp;
-
         }
 
         //Konstruktor kopiujący
