@@ -1,5 +1,5 @@
 # Pharmacy
-First object-oriented project
+First object-oriented programming project
 
 The first project that I managed to complete using object-oriented programming was developed using Windows Forms technology.
 
